@@ -12,7 +12,7 @@ def isComment(line: str) -> bool:
 
 
 total = 0
-cur_length = 0
+cur_length = 1
 
 lines = (
     line.strip()
